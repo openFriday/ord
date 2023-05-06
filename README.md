@@ -141,5 +141,4 @@ $ cat src/subcommand/wallet/transaction_builder.rs
 $ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 $ rustc -V
 $ cargo build --release
-
 ```
